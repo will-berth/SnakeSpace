@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c82f94bdd88bd2847ba5ee9a82cada2a
+guid: 3ce3c63125054f14eaf0c9fcd214c6aa
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 10
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Coin_0
+      name: points_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 10
-        height: 10
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c33e7aece57fbfe4bac650f38c068271
-      internalID: 748583621
+      spriteID: 2c6df0153bda90b439deba48765e6fc9
+      internalID: -331089431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Coin_1
+      name: points_1
       rect:
         serializedVersion: 2
-        x: 10
+        x: 16
         y: 0
-        width: 10
-        height: 10
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b62c184e9d1d4ba46a45f42e8d142167
-      internalID: 96649184
+      spriteID: 4111f4e1c58e26d4e8c0779506e97c2e
+      internalID: -510598370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Coin_2
+      name: points_2
       rect:
         serializedVersion: 2
-        x: 20
+        x: 32
         y: 0
-        width: 10
-        height: 10
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49051530bf8aeda4e8e2e9df81de40b9
-      internalID: 1643910593
+      spriteID: fcf51dcd26dcaa64cbec78f04688dc75
+      internalID: -78209671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Coin_3
+      name: points_3
       rect:
         serializedVersion: 2
-        x: 30
+        x: 48
         y: 0
-        width: 10
-        height: 10
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37264034cc82a4a4ab5d48d78c374b11
-      internalID: 2138559465
+      spriteID: f6e7f5884f60e0345bf17b130a82891f
+      internalID: -1237555482
       vertices: []
       indices: 
       edges: []
@@ -211,10 +211,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Coin_0: 748583621
-      Coin_2: 1643910593
-      Coin_1: 96649184
-      Coin_3: 2138559465
+      points_2: -78209671
+      points_0: -331089431
+      points_1: -510598370
+      points_3: -1237555482
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
