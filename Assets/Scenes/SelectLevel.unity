@@ -928,7 +928,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae81e7c7c71974046893b57c266699a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nameScene: SampleScene
+  nameScene: MarteLevel
 --- !u!1 &948660370
 GameObject:
   m_ObjectHideFlags: 0
