@@ -75,7 +75,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: -331089431, guid: 3ce3c63125054f14eaf0c9fcd214c6aa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -121,6 +121,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   valor: 1
   gameManager: {fileID: 0}
+  sonidoMoneda: {fileID: 8300000, guid: 2b722d6842e89bb46b26548d24bd38a5, type: 3}
 --- !u!61 &-3515284981871350692
 BoxCollider2D:
   m_ObjectHideFlags: 0

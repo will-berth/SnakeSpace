@@ -5,7 +5,8 @@ using UnityEngine;
 public class Coin : MonoBehaviour
 {
     public int valor = 1;
-    public GameManager gameManager;                         
+    public GameManager gameManager;
+    public AudioClip sonidoMoneda;                        
     // Start is called before the first frame update
     void Start()
     {
@@ -24,6 +25,7 @@ public class Coin : MonoBehaviour
         {
             gameManager.SumarPuntos(valor);
             Destroy(this.gameObject);
+            AudioManager.Instance.ReproducirSonido(sonidoMoneda);
         }
     }
 }

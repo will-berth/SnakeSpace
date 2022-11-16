@@ -59,7 +59,7 @@ public class GameManager : MonoBehaviour
         {
             return;
         }
-        
+            
         hud.ActivarVida(vidas);
         vidas += 1;
     }

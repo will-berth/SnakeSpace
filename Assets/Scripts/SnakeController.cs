@@ -8,6 +8,8 @@ public class SnakeController : MonoBehaviour
     public float fuerzaSalto;
     public int saltosMaximos;
     public LayerMask capaSuelo;
+    public AudioManager audioManager;
+    public AudioClip sonidoCaminar;
 
     private Rigidbody2D body;
     private BoxCollider2D boxCollider;
@@ -60,6 +62,7 @@ public class SnakeController : MonoBehaviour
         if(inputMovimiento != 0)
         {
             animator.SetBool("isWalking", true);
+            // audioManager.ReproducirSonido(sonidoCaminar);
         }
         else
         {
@@ -67,7 +70,6 @@ public class SnakeController : MonoBehaviour
         }
         body.velocity = new Vector2(inputMovimiento * velocity, body.velocity.y);
         GestionarOrientacion(inputMovimiento);
-
     }
 
     void GestionarOrientacion(float inputMovimiento)
