@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 14
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -120,12 +120,12 @@ TextureImporter:
       name: SnakeSprite_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 9
         y: 128
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -141,12 +141,12 @@ TextureImporter:
       name: SnakeSprite_1
       rect:
         serializedVersion: 2
-        x: 32
+        x: 41
         y: 128
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -162,12 +162,12 @@ TextureImporter:
       name: SnakeSprite_2
       rect:
         serializedVersion: 2
-        x: 64
+        x: 73
         y: 128
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -183,12 +183,12 @@ TextureImporter:
       name: SnakeSprite_3
       rect:
         serializedVersion: 2
-        x: 96
+        x: 105
         y: 128
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -204,12 +204,12 @@ TextureImporter:
       name: SnakeSprite_4
       rect:
         serializedVersion: 2
-        x: 128
+        x: 137
         y: 128
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -225,12 +225,12 @@ TextureImporter:
       name: SnakeSprite_5
       rect:
         serializedVersion: 2
-        x: 160
+        x: 169
         y: 128
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -246,12 +246,12 @@ TextureImporter:
       name: SnakeSprite_6
       rect:
         serializedVersion: 2
-        x: 192
+        x: 201
         y: 128
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -267,12 +267,12 @@ TextureImporter:
       name: SnakeSprite_7
       rect:
         serializedVersion: 2
-        x: 224
+        x: 233
         y: 128
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -288,12 +288,12 @@ TextureImporter:
       name: SnakeSprite_8
       rect:
         serializedVersion: 2
-        x: 256
+        x: 265
         y: 128
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -309,12 +309,12 @@ TextureImporter:
       name: SnakeSprite_9
       rect:
         serializedVersion: 2
-        x: 288
+        x: 297
         y: 128
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -330,12 +330,12 @@ TextureImporter:
       name: SnakeSprite_10
       rect:
         serializedVersion: 2
-        x: 0
+        x: 9
         y: 96
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -351,12 +351,12 @@ TextureImporter:
       name: SnakeSprite_11
       rect:
         serializedVersion: 2
-        x: 32
+        x: 41
         y: 96
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -372,12 +372,12 @@ TextureImporter:
       name: SnakeSprite_12
       rect:
         serializedVersion: 2
-        x: 64
+        x: 73
         y: 96
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -393,12 +393,12 @@ TextureImporter:
       name: SnakeSprite_13
       rect:
         serializedVersion: 2
-        x: 96
+        x: 105
         y: 96
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -414,12 +414,12 @@ TextureImporter:
       name: SnakeSprite_14
       rect:
         serializedVersion: 2
-        x: 128
+        x: 137
         y: 96
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -435,12 +435,12 @@ TextureImporter:
       name: SnakeSprite_15
       rect:
         serializedVersion: 2
-        x: 160
+        x: 169
         y: 96
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -456,12 +456,12 @@ TextureImporter:
       name: SnakeSprite_16
       rect:
         serializedVersion: 2
-        x: 192
+        x: 201
         y: 96
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -477,12 +477,12 @@ TextureImporter:
       name: SnakeSprite_17
       rect:
         serializedVersion: 2
-        x: 224
-        y: 95
-        width: 32
-        height: 32
+        x: 233
+        y: 96
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -498,12 +498,12 @@ TextureImporter:
       name: SnakeSprite_18
       rect:
         serializedVersion: 2
-        x: 256
+        x: 265
         y: 96
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -519,12 +519,12 @@ TextureImporter:
       name: SnakeSprite_19
       rect:
         serializedVersion: 2
-        x: 288
+        x: 297
         y: 96
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -540,12 +540,12 @@ TextureImporter:
       name: SnakeSprite_20
       rect:
         serializedVersion: 2
-        x: 0
+        x: 9
         y: 64
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -561,12 +561,12 @@ TextureImporter:
       name: SnakeSprite_21
       rect:
         serializedVersion: 2
-        x: 32
+        x: 41
         y: 64
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -582,12 +582,12 @@ TextureImporter:
       name: SnakeSprite_22
       rect:
         serializedVersion: 2
-        x: 64
+        x: 73
         y: 64
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -603,12 +603,12 @@ TextureImporter:
       name: SnakeSprite_23
       rect:
         serializedVersion: 2
-        x: 96
+        x: 105
         y: 64
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -624,12 +624,12 @@ TextureImporter:
       name: SnakeSprite_24
       rect:
         serializedVersion: 2
-        x: 129
+        x: 137
         y: 64
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -645,12 +645,12 @@ TextureImporter:
       name: SnakeSprite_25
       rect:
         serializedVersion: 2
-        x: 161
+        x: 169
         y: 64
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -666,12 +666,12 @@ TextureImporter:
       name: SnakeSprite_26
       rect:
         serializedVersion: 2
-        x: 193
+        x: 201
         y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.3613596, y: 0.4939723}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -687,12 +687,12 @@ TextureImporter:
       name: SnakeSprite_27
       rect:
         serializedVersion: 2
-        x: 225
+        x: 233
         y: 64
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -708,12 +708,12 @@ TextureImporter:
       name: SnakeSprite_28
       rect:
         serializedVersion: 2
-        x: 256
+        x: 265
         y: 64
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -729,12 +729,12 @@ TextureImporter:
       name: SnakeSprite_29
       rect:
         serializedVersion: 2
-        x: 288
+        x: 297
         y: 64
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -750,12 +750,12 @@ TextureImporter:
       name: SnakeSprite_30
       rect:
         serializedVersion: 2
-        x: 0
+        x: 9
         y: 32
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -771,12 +771,12 @@ TextureImporter:
       name: SnakeSprite_31
       rect:
         serializedVersion: 2
-        x: 32
+        x: 41
         y: 32
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -792,12 +792,12 @@ TextureImporter:
       name: SnakeSprite_32
       rect:
         serializedVersion: 2
-        x: 64
+        x: 73
         y: 32
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -813,12 +813,12 @@ TextureImporter:
       name: SnakeSprite_33
       rect:
         serializedVersion: 2
-        x: 96
+        x: 105
         y: 32
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -834,12 +834,12 @@ TextureImporter:
       name: SnakeSprite_34
       rect:
         serializedVersion: 2
-        x: 128
+        x: 137
         y: 32
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -855,12 +855,12 @@ TextureImporter:
       name: SnakeSprite_35
       rect:
         serializedVersion: 2
-        x: 160
+        x: 169
         y: 32
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -876,12 +876,12 @@ TextureImporter:
       name: SnakeSprite_36
       rect:
         serializedVersion: 2
-        x: 192
+        x: 201
         y: 32
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -897,12 +897,12 @@ TextureImporter:
       name: SnakeSprite_37
       rect:
         serializedVersion: 2
-        x: 224
+        x: 233
         y: 32
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -918,12 +918,12 @@ TextureImporter:
       name: SnakeSprite_38
       rect:
         serializedVersion: 2
-        x: 256
+        x: 265
         y: 32
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -939,12 +939,12 @@ TextureImporter:
       name: SnakeSprite_39
       rect:
         serializedVersion: 2
-        x: 288
+        x: 297
         y: 32
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -960,12 +960,12 @@ TextureImporter:
       name: SnakeSprite_40
       rect:
         serializedVersion: 2
-        x: 0
+        x: 9
         y: 0
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -981,12 +981,12 @@ TextureImporter:
       name: SnakeSprite_41
       rect:
         serializedVersion: 2
-        x: 32
+        x: 41
         y: 0
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1002,12 +1002,12 @@ TextureImporter:
       name: SnakeSprite_42
       rect:
         serializedVersion: 2
-        x: 64
+        x: 73
         y: 0
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1023,12 +1023,12 @@ TextureImporter:
       name: SnakeSprite_43
       rect:
         serializedVersion: 2
-        x: 96
+        x: 105
         y: 0
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1044,12 +1044,12 @@ TextureImporter:
       name: SnakeSprite_44
       rect:
         serializedVersion: 2
-        x: 128
+        x: 137
         y: 0
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1065,12 +1065,12 @@ TextureImporter:
       name: SnakeSprite_45
       rect:
         serializedVersion: 2
-        x: 160
+        x: 169
         y: 0
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1086,12 +1086,12 @@ TextureImporter:
       name: SnakeSprite_46
       rect:
         serializedVersion: 2
-        x: 192
+        x: 201
         y: 0
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1107,12 +1107,12 @@ TextureImporter:
       name: SnakeSprite_47
       rect:
         serializedVersion: 2
-        x: 224
+        x: 233
         y: 0
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1128,12 +1128,12 @@ TextureImporter:
       name: SnakeSprite_48
       rect:
         serializedVersion: 2
-        x: 256
+        x: 265
         y: 0
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1149,12 +1149,12 @@ TextureImporter:
       name: SnakeSprite_49
       rect:
         serializedVersion: 2
-        x: 288
+        x: 297
         y: 0
-        width: 32
-        height: 32
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
